@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1653ac0e.chunk.css",
+    "main.js": "/static/js/main.ab1e3765.chunk.js",
+    "main.js.map": "/static/js/main.ab1e3765.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8d0b034.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8d0b034.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.00fa503c.chunk.js": "/static/js/2.00fa503c.chunk.js",
+    "static/js/2.00fa503c.chunk.js.map": "/static/js/2.00fa503c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.1653ac0e.chunk.css.map": "/static/css/main.1653ac0e.chunk.css.map",
+    "static/js/2.00fa503c.chunk.js.LICENSE.txt": "/static/js/2.00fa503c.chunk.js.LICENSE.txt",
+    "static/media/AppointmentManagement.de6705d8.png": "/static/media/AppointmentManagement.de6705d8.png",
+    "static/media/ClinicalMobile.4c8246ce.png": "/static/media/ClinicalMobile.4c8246ce.png",
+    "static/media/HealthCare.f8b07d72.png": "/static/media/HealthCare.f8b07d72.png",
+    "static/media/HmcsMobile.ed8a3b7b.png": "/static/media/HmcsMobile.ed8a3b7b.png",
+    "static/media/HmsMobile.2a08cc59.png": "/static/media/HmsMobile.2a08cc59.png",
+    "static/media/Quresoft_Logo.5115641b.png": "/static/media/Quresoft_Logo.5115641b.png",
+    "static/media/bgOne.5fe4dfae.jpg": "/static/media/bgOne.5fe4dfae.jpg",
+    "static/media/bgTwo.a5f9c292.jpg": "/static/media/bgTwo.a5f9c292.jpg",
+    "static/media/contactBgOne.ef3f8d8b.png": "/static/media/contactBgOne.ef3f8d8b.png",
+    "static/media/contactBgTwo.0a06ed1f.png": "/static/media/contactBgTwo.0a06ed1f.png",
+    "static/media/App.css": "/static/media/hmsBgTwo.462a3cee.jpg",
+    "static/media/mobileBgOne.2b92d31e.png": "/static/media/mobileBgOne.2b92d31e.png",
+    "static/media/mobileBgTwo.e32d81ec.png": "/static/media/mobileBgTwo.e32d81ec.png",
+    "static/media/pic.09b9cb1c.png": "/static/media/pic.09b9cb1c.png",
+    "static/media/visionBgOne.d8ade6c7.png": "/static/media/visionBgOne.d8ade6c7.png",
+    "static/media/visionBgTwo.fd4f1a02.png": "/static/media/visionBgTwo.fd4f1a02.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8d0b034.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.00fa503c.chunk.js",
+    "static/css/main.1653ac0e.chunk.css",
+    "static/js/main.ab1e3765.chunk.js"
+  ]
+}
